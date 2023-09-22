@@ -12,7 +12,7 @@ export default function Detail() {
   const dispatch = useDispatch();
   useEffect(() => {
     dispatch(fetchDetail());
-  }, []);
+  }, [dispatch]);
 
   return (
     <>
