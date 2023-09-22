@@ -26,6 +26,7 @@
   margin: 0;
   display: grid;
   grid-template-columns: 50% 50%;
+  overflow-x: hidden;
 }
 
 .arrow {
@@ -145,5 +146,5 @@ form {
 .main-container {
   width: 100%;
   margin: 0;
-  padding: 0;
+  background-color: #4671bf;
 }
