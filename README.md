@@ -24,7 +24,8 @@
 
 # 📖 React Capstone <a name="about-project"></a>
 
-**React Capstone** was built to inform different kinds of cuisine.You can find many cuisines and recipe
+**Born Your Appetite** was built to inform different kinds of cuisine around the world.
+You can find many cuisines and try their recipes.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -47,6 +48,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://react-capstone-project-wiu2.onrender.com/)
+- [Video Link](https://www.loom.com/share/d10cbf76809f4278bdc4ebe3e120095d?sid=58332806-a9ee-424c-96d1-02d86467c8d3)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
