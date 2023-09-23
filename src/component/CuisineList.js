@@ -10,7 +10,7 @@ export default function CuisineList(props) {
   const dispatch = useDispatch();
   const { title, image, id } = props;
 
-   const detailpage = () => {
+  const detailpage = () => {
     dispatch(getId(id));
     return (
       ' '
