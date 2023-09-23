@@ -1,7 +1,6 @@
 import React from 'react';
 import { render, screen } from '@testing-library/react';
 import { BrowserRouter } from 'react-router-dom';
-import Test from './Test';
 import CuisineList from '../CuisineList';
 import { BrowserRouter as Router } from 'react-router-dom'; // Import BrowserRouter for NavLink
 

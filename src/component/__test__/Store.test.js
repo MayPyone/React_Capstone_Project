@@ -3,7 +3,7 @@ import { render, screen } from '@testing-library/react';
 import { Provider } from 'react-redux';
 import configureStore from 'redux-mock-store';
 import { useSelector } from 'react-redux';
-import Test from '../Detail';
+import Detail from '../Detail';
 import { BrowserRouter } from 'react-router-dom';
 
 const mockStore = configureStore([]);
